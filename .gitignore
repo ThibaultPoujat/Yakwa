@@ -278,3 +278,5 @@ iOSInjectionProject/
 *.generated.swift
 
 # End of https://www.gitignore.io/api/swift,xcode,macos,appcode,carthage,intellij+all
+github
+github.pub
